@@ -57,7 +57,10 @@ Visualizations (Located in `visuals/` folder)
 - `hebbal_outlier.png` – Price trend vs. sqft for Hebbal locality  
 - `user_interface.png` – Screenshot of the Tkinter user interface  
 - `accuracy_and_prediction.png` – Sample prediction output shown via GUI
-
+- 'error_distribution'
+- 'residuals_vs_predicted_prices'
+- 'predicted_vs_actual_prices'
+  
 Model Training
 
 - Algorithm: Linear Regression
