@@ -9,14 +9,14 @@ Build a machine learning model to predict property prices and deploy it using a 
 Project Structure
 
 data
- -Bengaluru_House_Data_original.csv – Original dataset
- -Preprocessed.csv – Preprocessed dataset
+ -Bengaluru_House_Data_original.csv 
+ -Preprocessed.csv 
 
 visuals
- -rajaji_nagar_outlier.png – Rajaji Nagar outlier visualization
- -hebbal_outlier.png – Hebbal outlier visualization
- -user_interface.png – Tkinter GUI screenshot
- -accuracy_and_prediction.png – GUI prediction output
+ -rajaji_nagar_outlier.png 
+ -hebbal_outlier.png 
+ -user_interface.png 
+ -accuracy_and_prediction.png 
 
 -_Realestate_Priceprediction.ipynb – Data cleaning + model training
 
