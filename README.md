@@ -17,6 +17,9 @@ visuals/
 -'hebbal_outlier.png',
 -'user_interface.png' ,
 -'accuracy_and_prediction.png'. 
+-'error_distribution'
+-'residuals_vs_predicted_prices'
+-'predicted_vs_actual_prices'
 
 -_Realestate_Priceprediction.ipynb – Data cleaning + model training
 
