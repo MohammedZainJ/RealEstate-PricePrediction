@@ -8,11 +8,11 @@ Build a machine learning model to predict property prices and deploy it using a 
 
 Project Structure
 
-data
+data/
 -'Bengaluru_House_Data_original.csv'
 -'Preprocessed.csv' 
 
-visuals
+visuals/
 -'rajaji_nagar_outlier.png' 
 -'hebbal_outlier.png'
 -'user_interface.png' 
